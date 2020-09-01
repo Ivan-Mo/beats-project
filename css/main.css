@@ -313,7 +313,7 @@ footer {
   position: relative;
 }
 .benefits-section:before {
-  content: url("/img/decor/Vector2.png");
+  content: url("../../img/decor/Vector2.png");
   position: absolute;
   bottom: -80px;
   left: 10%;
@@ -469,7 +469,7 @@ footer {
 }
 
 .order-section {
-  background: url(/img/bg/del.png) no-repeat;
+  background: url(../../img/bg/del.png) no-repeat;
   background-size: 100%;
 }
 
@@ -484,7 +484,7 @@ footer {
   border-radius: 0;
 }
 .radio--checkbox .radio__visible:before {
-  background: url(/img/decor/Vector.png) center center no-repeat;
+  background: url(../../img/decor/Vector.png) center center no-repeat;
 }
 
 .radio__elem {
