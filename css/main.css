@@ -90,7 +90,7 @@ footer {
   position: absolute;
   bottom: -25px;
   left: 82%;
-  content: url("../../img/decor/Rectangle.png");
+  content: url("/img/decor/Rectangle.png");
 }
 
 .hero__title-section {
@@ -484,7 +484,7 @@ footer {
   border-radius: 0;
 }
 .radio--checkbox .radio__visible:before {
-  background: url(../../img/decor/Vector.png) center center no-repeat;
+  background: url(/img/decor/Vector.png) center center no-repeat;
 }
 
 .radio__elem {
