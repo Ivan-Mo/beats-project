@@ -90,7 +90,7 @@ footer {
   position: absolute;
   bottom: -25px;
   left: 82%;
-  content: url("/img/decor/Rectangle.png");
+  content: url("./img/decor/Rectangle.png");
 }
 
 .hero__title-section {
@@ -103,7 +103,7 @@ footer {
   justify-content: space-between;
   height: 100%;
   padding: 24px 0 45px;
-  background: url("/img/bg/Ellipse.png") right center/50% auto no-repeat;
+  background: url("./img/bg/Ellipse.png") right center/50% auto no-repeat;
 }
 
 .hero__main-title {
@@ -245,7 +245,7 @@ footer {
   position: relative;
 }
 .benefits__item:before {
-  content: url("../../img/decor/Shape.png");
+  content: url("./img/decor/Shape.png");
   position: absolute;
   top: 30px;
   right: 0;
@@ -313,7 +313,7 @@ footer {
   position: relative;
 }
 .benefits-section:before {
-  content: url("../../img/decor/Vector2.png");
+  content: url("./img/decor/Vector2.png");
   position: absolute;
   bottom: -80px;
   left: 10%;
@@ -469,7 +469,7 @@ footer {
 }
 
 .order-section {
-  background: url(../../img/bg/del.png) no-repeat;
+  background: url("./img/bg/del.png") no-repeat;
   background-size: 100%;
 }
 
@@ -484,7 +484,7 @@ footer {
   border-radius: 0;
 }
 .radio--checkbox .radio__visible:before {
-  background: url(/img/decor/Vector.png) center center no-repeat;
+  background: url("./img/decor/Vector.png") center center no-repeat;
 }
 
 .radio__elem {
